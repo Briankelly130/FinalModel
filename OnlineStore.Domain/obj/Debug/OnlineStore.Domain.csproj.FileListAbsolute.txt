@@ -1,0 +1,30 @@
+C:\Users\brians\Desktop\OnlineStore V.2\OnlineStore.Domain\bin\Debug\OnlineStore.Domain.dll.config
+C:\Users\brians\Desktop\OnlineStore V.2\OnlineStore.Domain\bin\Debug\OnlineStore.Domain.dll
+C:\Users\brians\Desktop\OnlineStore V.2\OnlineStore.Domain\bin\Debug\OnlineStore.Domain.pdb
+C:\Users\brians\Desktop\OnlineStore V.2\OnlineStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\brians\Desktop\OnlineStore V.2\OnlineStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brians\Desktop\OnlineStore V.2\OnlineStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\brians\Desktop\OnlineStore V.2\OnlineStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brians\Desktop\OnlineStore V.2\OnlineStore.Domain\obj\Debug\OnlineStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\brians\Desktop\OnlineStore V.2\OnlineStore.Domain\obj\Debug\OnlineStore.Domain.dll
+C:\Users\brians\Desktop\OnlineStore V.2\OnlineStore.Domain\obj\Debug\OnlineStore.Domain.pdb
+C:\Users\bkelly\Desktop\OnlineStore V.3\OnlineStore.Domain\bin\Debug\OnlineStore.Domain.dll.config
+C:\Users\bkelly\Desktop\OnlineStore V.3\OnlineStore.Domain\bin\Debug\OnlineStore.Domain.dll
+C:\Users\bkelly\Desktop\OnlineStore V.3\OnlineStore.Domain\bin\Debug\OnlineStore.Domain.pdb
+C:\Users\bkelly\Desktop\OnlineStore V.3\OnlineStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\bkelly\Desktop\OnlineStore V.3\OnlineStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bkelly\Desktop\OnlineStore V.3\OnlineStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\bkelly\Desktop\OnlineStore V.3\OnlineStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bkelly\Desktop\OnlineStore V.3\OnlineStore.Domain\obj\Debug\OnlineStore.Domain.dll
+C:\Users\bkelly\Desktop\OnlineStore V.3\OnlineStore.Domain\obj\Debug\OnlineStore.Domain.pdb
+C:\Users\bkelly\Desktop\OnlineStore V.3\OnlineStore.Domain\obj\Debug\OnlineStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\bkelly\Desktop\Primary-repository-master\OnlineStore.Domain\bin\Debug\OnlineStore.Domain.dll.config
+C:\Users\bkelly\Desktop\Primary-repository-master\OnlineStore.Domain\bin\Debug\OnlineStore.Domain.dll
+C:\Users\bkelly\Desktop\Primary-repository-master\OnlineStore.Domain\bin\Debug\OnlineStore.Domain.pdb
+C:\Users\bkelly\Desktop\Primary-repository-master\OnlineStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\bkelly\Desktop\Primary-repository-master\OnlineStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bkelly\Desktop\Primary-repository-master\OnlineStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\bkelly\Desktop\Primary-repository-master\OnlineStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bkelly\Desktop\Primary-repository-master\OnlineStore.Domain\obj\Debug\OnlineStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\bkelly\Desktop\Primary-repository-master\OnlineStore.Domain\obj\Debug\OnlineStore.Domain.dll
+C:\Users\bkelly\Desktop\Primary-repository-master\OnlineStore.Domain\obj\Debug\OnlineStore.Domain.pdb

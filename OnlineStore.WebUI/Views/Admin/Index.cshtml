@@ -1,0 +1,31 @@
+﻿@model IEnumerable<OnlineStore.Domain.Entities.Game>
+
+@{
+    ViewBag.Title = "Admin: All Games";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>All Games</h1>
+<table class="Grid">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th class="NumericCol">Price</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.GameID</td>
+            <td>@Html.ActionLink(item.Name, "Edit", new { item.GameID })</td>
+            <td class="NumericCol">@item.Price.ToString("c")</td>
+            <td>@using (Html.BeginForm("Delete", "Admin"))
+                {
+                    @Html.Hidden("GameId", item.GameID)
+                <input type="submit" value="Delete" />
+            }
+            </td>
+        </tr>
+    }
+</table>
+<p>@Html.ActionLink("Add a new game", "Create")</p>
